@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marco28ej
+8- 👋 Hi, I’m @marco28ej
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -89,5 +89,32 @@ You can click the Preview link to take a look at your changes.
     &copy; 2025 Futebol News - Todos os direitos reservados.
   </footer>
 
+</body>
+</html><!DOCTYPE html>
+<html>
+<head>
+    <title>Neymar Gallery</title>
+    <style>
+        body { 
+            font-family: Arial; 
+            background: black; 
+            color: white; 
+            text-align: center;
+            padding: 20px;
+        }
+        h1 { color: #00FF00; }
+        img {
+            width: 90%;
+            max-width: 400px;
+            margin: 10px;
+            border: 2px solid #00FF00;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>NEYMAR JR 🔥</h1>
+    <img src="https://conteudo.imguol.com.br/c/esporte/07/2022/12/05/neymar-comemora-gol-do-brasil-em-partida-contra-a-coreia-do-sul-pelas-oitavas-de-final-da-copa-do-mundo-1670270524535_v2_3x4.jpg">
+    <img src="https://s2-ge.glbimg.com/2dQeFx1QZ3qX5m3J8w3J3q3X3Zc=/0x0:1024x683/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2023/q/d/2RjBQmTjGjK1XjJY4zYw/neymar-psg.jpg">
 </body>
 </html>
